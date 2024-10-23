@@ -1,0 +1,53 @@
+header {
+  height: 100px;
+}
+
+
+.project-caption {
+  padding: 50px;
+  background-color: lightgreen;
+}
+
+.recrnt-project-paragraph {
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  text-transform: capitalize;
+  color: white;
+}
+
+.recrnt-project-heading {
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 15px;
+}
+
+.project-caption .recrnt-project-heading::after {
+  content: " ";
+  position: absolute;
+  border-bottom: 5px solid red;
+  height: 43px;
+  width: 224px;
+  right: 344px;
+}
+
+footer {
+  padding: 50px 0px 10px;
+}
+
+.bg-dark p {
+  color: cornflowerblue;
+  top: 8px;
+}
+
+
+.left-content p{
+    margin-left: 10px;
+}
+
+.project-caption .recrnt-project-heading::after {
+  content: " ";
+  position: absolute;
+  border-bottom: 5px solid red;
+  height: 43px;
+  width: 150px;
+  right: 1170px;
+}
