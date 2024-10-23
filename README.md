@@ -5,8 +5,8 @@
 #### Project Setup Instructions:
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Jannatul-Faria/example.git
-   cd example
+   git clone https://github.com/Jannatul-Faria/employment_test.git
+   cd employment_test
    ```
 
 2. **Install Dependencies**
