@@ -47,7 +47,7 @@
    ```
 
 6. **Access the Application**
-   Open a web browser and go to `http://127.0.0.1:8000` to access the PawFinder application.
+   Open a web browser and go to `http://127.0.0.1:8000` to access the application.
 
 #### Task and Issues:
 ### Task 1:
